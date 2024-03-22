@@ -1,0 +1,17 @@
+[33mcommit 645eeb2003d51a141c379808c0c141410bb10df0[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Shaheen <avrostu@gmail.com>
+Date:   Fri Mar 22 15:15:53 2024 +0600
+
+    Set up gh-pages for deploying purpose within github
+
+[33mcommit 921e80a8f7055aeebb5783bab33801e0432dc8cc[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Shaheen <avrostu@gmail.com>
+Date:   Fri Mar 22 14:41:53 2024 +0600
+
+    Favicon Added & Title Changed!
+
+[33mcommit c145e458ef17d6f52bc54425a031e6d393721a44[m
+Author: Shaheen <avrostu@gmail.com>
+Date:   Wed Feb 21 12:33:53 2024 +0600
+
+    Project scafolded successfully
