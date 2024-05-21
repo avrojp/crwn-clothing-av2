@@ -1,0 +1,17 @@
+header {
+  block-size: 4rem;
+  position: sticky;
+  top: 0;
+  left: 0;
+  background: linear-gradient(to right, #857885, #b4ecbec7);
+  z-index: 999;
+  border: 2px dashed blue;
+  nav {
+    display: flex;
+    .logo {
+      display: flex;
+      gap: 7px;
+      font-weight: var(--fw-400);
+    }
+  }
+}
