@@ -1,9 +1,9 @@
 :root {
   --clr-neutral: #ffffff;
-  --clr-orangy: #ffbc51;
-  --clr-pinkish: #857885;
-  --clr-blueish: #5c0e62;
-  --clr-redish: #e23434;
+  --clr-orangy: #57A6A1;
+  --clr-pinkish: #577B8D;
+  --clr-blueish: #240750;
+  --clr-redish: #344C64;
   --clr-footer: #210933;
   --fw-400: 400;
   --fw-700: 700;
@@ -109,6 +109,7 @@ html {
 }
 
 body {
+  font-size: 110%;
   background-color: #e5e5e5;
   font-weight: var(--fw-400);
   line-height: 1.5;
@@ -193,8 +194,14 @@ section {
   margin-inline: auto;
 }
 
-
+sup {
+  font-size: .6em;
+  font-weight: bold;
+}
 /*  */
 .border {
   border: 2px solid rgb(255, 0, 0);
+}
+.text-cap {
+  text-transform: uppercase;
 }
